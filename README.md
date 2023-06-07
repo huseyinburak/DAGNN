@@ -9,3 +9,7 @@ CORA Dataset can be obtained and read externally as a ".tar" file, but it is tak
 The number of hidden layers in NN and the number of nodes in each layer can be determined dynamically.
 
 Hyperparameters can be changed for optimization.
+
+The output after each NN is visualized with t-SNE.
+
+Layer number versus accuracy value is plotted.
